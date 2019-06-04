@@ -1,4 +1,4 @@
-## The functions cache the inverse of a square matrix.  Note the amtrix must be square for the functions to work
+## The functions cache the inverse of a square matrix.  Note the matrix must be square for the functions to work
 
 ## makeCacheMatrix creates a special matrix that can cache its inverse.
 
